@@ -43,11 +43,11 @@ Each course folder may contain any combination of the following, depending on wh
 
 The following courses are part of the OzU CS / AI & Data Engineering core curriculum and will be added as materials are gathered:
 
-- CS201 · Data Structures
+- CS201 · Data Structures & Algorithms
 - CS449 · Natural Language Processing
 - AI201 · Data Science
 - IE201 · Operations Research
-- ECON210 · Economics
+- ECON210 · Engineering Economics
 - ... and more as the curriculum expands
 
 If a course you need is not listed, see the [Requesting Materials](#requesting-materials) section below.
